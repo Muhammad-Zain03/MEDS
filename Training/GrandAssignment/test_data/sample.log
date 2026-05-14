@@ -1,0 +1,6 @@
+[2024-05-14 10:00:01] TEST START: Instruction Fetch
+[2024-05-14 10:00:05] TEST PASS: Instruction Fetch
+[2024-05-14 10:00:10] TEST START: ALU Operation
+[2024-05-14 10:00:15] TEST FAIL: ALU Operation
+[2024-05-14 10:00:20] TEST START: Data Memory Access
+[2024-05-14 10:00:25] TEST PASS: Data Memory Access
