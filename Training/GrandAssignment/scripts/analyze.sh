@@ -10,7 +10,7 @@ usage() {
 analyze_log() {
     local input_file=$1
     
-    echo "--- RISC-V Log Analysis Report ---"
+    echo "--- FEATURE BRANCH ANALYSIS ---"
 
     total=$(grep -c "TEST" "$input_file" || echo 0)
     passed=$(grep -c "TEST PASS" "$input_file" || echo 0)
