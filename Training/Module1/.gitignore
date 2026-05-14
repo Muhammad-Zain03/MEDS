@@ -1,0 +1,8 @@
+# Ignore generated output reports
+output/
+
+# Editor and OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+Hardware item 1: Hammer
+Hardware item 2: Nails

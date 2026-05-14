@@ -1,0 +1,3 @@
+Grocery item 1: Milk
+Grocery item 2: Eggs
+Grocery item 3: Bread
