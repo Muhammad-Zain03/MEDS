@@ -4,5 +4,5 @@ questa/
 # Ignore draw.io files within the diagram folder
 diagram/*.drawio
 
-# Ignore ALL draw.io hidden backup files anywhere in the project
-.*.drawio.bkp
+# Ignore that specific backup file in the diagrams folder
+diagrams/.$top.drawio.bkp
