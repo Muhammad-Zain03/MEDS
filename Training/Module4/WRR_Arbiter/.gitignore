@@ -1,0 +1,5 @@
+# Ignore the questa directory and all its contents
+questa/
+
+# Ignore draw.io files within the diagram folder
+diagram/*.drawio
