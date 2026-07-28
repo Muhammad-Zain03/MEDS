@@ -10,7 +10,7 @@ This project was developed as part of the **MEDS Lab Module 4: SystemVerilog for
 * **Strict Ratio Enforcement:** Allocates grants proportionally based on each requester's assigned weight.
 * **Zero Starvation:** Employs a dynamic priority rotator. Once a requester exhausts its weight or drops its request, priority physically rotates to the next requester, mathematically bounding the maximum wait time.
 * **Registered Outputs:** Follows rigorous hardware design rules by decoupling the combinational brain from the sequential outputs. All grants and pointer updates emerge cleanly on the positive clock edge, preventing combinational glitches.
-* **Credit Dropping:** Requesters that drop their request mid-turn immediately forfeit their remaining weight credits, preventing unfair "credit banking"[cite: 1].
+* **Credit Dropping:** Requesters that drop their request mid-turn immediately forfeit their remaining weight credits, preventing unfair "credit banking".
 
 ## 📂 Repository Structure
 
